@@ -1,5 +1,6 @@
 # karate-gradle
 In the build.gradle file add the following dependencies 
+  
   dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     testCompile(
