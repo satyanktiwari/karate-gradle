@@ -8,7 +8,7 @@ In the build.gradle file add the following dependencies
     ) 
     
     
-    Clone the api-playground project from github > install and start using npm
+ Clone the api-playground project from github > install and start using npm
     
     Note:
     When using .json file make sure the square brackets and curly braces are at the correct position to ensure that there are no failures.
